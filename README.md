@@ -85,13 +85,13 @@ using the writeToFile() function.
 
 ## Screenshots
 
-- [Screenshot1](./assets/pic1.png)
+![Screenshot1](./assets/pic1.png)
 <br>
-- [Screenshot2](./assets/pic1.png)
+![Screenshot2](./assets/pic1.png)
 <br>
-- [Screenshot3](./assets//pic3.png)
+![Screenshot3](./assets//pic3.png)
 <br>
-- [Screenshot4](./assets/pic4.png)
+![Screenshot4](./assets/pic4.png)
 <br>
 
 ---
