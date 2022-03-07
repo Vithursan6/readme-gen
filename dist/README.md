@@ -1,8 +1,8 @@
 
   
-  # Readme Generator
+  # Readme gen
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   
   ## Table-of-Contents
@@ -17,23 +17,23 @@
   
   ## [Description](#table-of-contents)
   
-  This app takes user input through inquirer prompts and generates a professional readme.
+  To create a professional readme
   
-  To assis users in quickly adding a professional readme to their projects.
+  to assist developers save time
   
   ## [Installation](#table-of-contents)
   
-  Download repository, run "npm install" and then run "node index"
+  download and run npm install in root and then run node index
   
   ## [Usage](#table-of-contents)
   
-  Follow inquirer prompts and then look for generated readme in /dist folder.
+  Enter answers to the prompts and a readme will be generated in the dist folder
 
   ## [License](#table-of-contents)
   
   
   The application is covered under the following license:
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
     
   
   ## [Contributions](#table-of-contents)
@@ -44,13 +44,13 @@
   
   ## [Tests](#table-of-contents)
   
-  n/a
+  npm test
   
   ## [Questions](#table-of-contents)
   
   Please contact me using the following links:
   
-  [GitHub](https://github.com/undefined)
+  [GitHub](https://github.com/vithursan)
   
-  [Email: vithursan6@gmail.com](mailto:vithursan6@gmail.com)
+  [Email: vithusan@gmail.com](mailto:vithusan@gmail.com)
 
